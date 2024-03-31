@@ -1,7 +1,7 @@
 ## Hi there, I am Sazzad Hosen 👋
 
 
-### I am an enthusiastic, detail oriented full stack web developer having expertise in web applicatino development and software development.
+### I am an enthusiastic full-stack web developer having expertise in web application development and software development.
 ---
 
 
