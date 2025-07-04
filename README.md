@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sazzad Hosen</h1>
 <h3 align="center">I am an enthusiastic full-stack web developer having expertise in web application development</h3>
 
-<p align="left"> 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="sazzad-hosen-mahim" width="400" /> 
-</p>
-
 - 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [sazzad-hosen.vercel.app](sazzad-hosen.vercel.app)
