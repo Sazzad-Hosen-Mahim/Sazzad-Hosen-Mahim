@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sajjadhosenmahim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15C0uGIDGb10-gxGu8RbVGqVSqq2pTvIt/view?usp=sharing](https://drive.google.com/file/d/15C0uGIDGb10-gxGu8RbVGqVSqq2pTvIt/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ERcEGQIuGc6R2HbNSUUMYkieSuoIIq3u/view?usp=sharing
 
 ## <h2 align="left"> :mailbox: Reach me out</h2>
 <p align="left">
