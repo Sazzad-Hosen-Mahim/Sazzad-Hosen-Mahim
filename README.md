@@ -4,11 +4,13 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 👨‍💻 All of my projects are available at [sazzad-hosen.vercel.app](sazzad-hosen.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](sazzad-hosen.vercel.app)
 
-- 💬 Ask me about **javascript, react, next, node**
+- 💬 Ask me about **javascript, react, next, node, mongoDB, postgres, docker, kubernetes, graphql**
 
 - 📫 How to reach me **sajjadhosenmahim@gmail.com**
+
+- 📞 Contact me at: **+8801857589709**
 
 - 📄 My Resume https://drive.google.com/file/d/1ERcEGQIuGc6R2HbNSUUMYkieSuoIIq3u/view?usp=sharing
 
