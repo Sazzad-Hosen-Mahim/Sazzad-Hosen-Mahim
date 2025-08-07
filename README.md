@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sazzad Hosen</h1>
 <h3 align="center">I am an enthusiastic full-stack web developer having expertise in web application development</h3>
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](sazzad-hosen.vercel.app)
 
